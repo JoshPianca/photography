@@ -1,0 +1,30 @@
+:root {
+  --bg-dark: #021314;
+  --bg-dark-contrast: #001214;
+  --text-colour: #2acaa5;
+  --gold: #948B59;
+}
+
+body, .MuiPaper-root {
+  background-color: var(--bg-dark);
+  color: var(--gold);
+  height: 100%;
+}
+
+html {
+  height: 94vh;
+}
+
+#root,
+.App {
+  height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "VT323";
+}
