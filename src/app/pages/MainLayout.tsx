@@ -72,7 +72,7 @@ export function MainLayout() {
     <>
       <Grid container spacing={2} padding={2}>
         <Grid size={12}>
-          <h1>Kieran White photography</h1>
+          <h1>some photos</h1>
         </Grid>
       </Grid>
       <Divider variant="inset" />
